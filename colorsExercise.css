@@ -1,0 +1,39 @@
+h1{
+    color: blueviolet;
+    background-color: red;
+}
+h2{
+    color: #14F320;
+    background-color: orange;
+}
+h3{
+    color: rgb(145, 29, 148);
+    background-color: yellow;
+}
+h4{
+    color: #f86;
+    background-color: green;
+}
+h5{
+    color: rgba(234, 47, 69, 1.7);
+    background-color: blue;
+}
+h6{
+    color: #14F2F399;
+    background-color: indigo;
+}
+p{
+    color: #F418;
+    background-color: violet;
+}
+#one{
+    color: hotpink;
+}
+#two{
+    background-color: peachpuff;
+}
+.Bonus{
+    border: green;
+    border-style: solid;
+    border-width: 5px;
+}
